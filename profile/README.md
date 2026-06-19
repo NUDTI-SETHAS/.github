@@ -18,9 +18,9 @@ O **NUDTI-SETHAS** é o Núcleo de Desenvolvimento Tecnológico e Inovação da 
 
 ---
 
-## 🧰 Stack Tecnológica
+## Stack Tecnológica
 
-### ⚙️ Back-end
+### Back-end
 
 <div>
 
@@ -29,7 +29,7 @@ O **NUDTI-SETHAS** é o Núcleo de Desenvolvimento Tecnológico e Inovação da 
 
 </div>
 
-### 🖥️ Front-end
+### Front-end
 
 <div>
 
@@ -39,7 +39,7 @@ O **NUDTI-SETHAS** é o Núcleo de Desenvolvimento Tecnológico e Inovação da 
 
 </div>
 
-### 🏗️ Infra
+### Infra
 
 <div>
 
@@ -50,9 +50,9 @@ O **NUDTI-SETHAS** é o Núcleo de Desenvolvimento Tecnológico e Inovação da 
 
 ---
 
-## 🚀 Projetos em Andamento
+## Projetos em Andamento
 
-### 🥛 Programa do Leite Potiguar (PLP)
+### Programa do Leite Potiguar (PLP)
 Sistema completo de gestão do programa de distribuição de leite do estado do RN, com módulos para diferentes perfis de usuário.
 
 | Repositório | Descrição | Tecnologia |
@@ -68,7 +68,7 @@ Sistema completo de gestão do programa de distribuição de leite do estado do 
 
 ---
 
-### 🏠 +SUAS
+### +SUAS
 Sistema de informação e apoio à Assistência Social, com múltiplos módulos de atendimento e gestão.
 
 | Repositório | Descrição | Tecnologia |
@@ -80,7 +80,7 @@ Sistema de informação e apoio à Assistência Social, com múltiplos módulos 
 
 ---
 
-### 🍽️ Programa Restaurante Popular (PRP)
+### Programa Restaurante Popular (PRP)
 Sistema de gestão do Programa Restaurante Popular, atendendo consumidores, agentes e unidades.
 
 | Repositório | Descrição | Tecnologia |
@@ -93,7 +93,7 @@ Sistema de gestão do Programa Restaurante Popular, atendendo consumidores, agen
 
 ---
 
-### 🤝 RN Acolhe
+### RN Acolhe
 Sistema de acolhimento social com módulos para tutores, profissionais de referência e agentes de campo.
 
 | Repositório | Descrição | Tecnologia |
@@ -108,7 +108,7 @@ Sistema de acolhimento social com módulos para tutores, profissionais de refer�
 
 ---
 
-### 👨‍💼 Jovem Potiguar
+### Jovem Potiguar
 Sistema de gestão do programa Jovem Potiguar, voltado ao emprego e qualificação de jovens do RN.
 
 | Repositório | Descrição | Tecnologia |
@@ -119,7 +119,7 @@ Sistema de gestão do programa Jovem Potiguar, voltado ao emprego e qualificaç�
 
 ---
 
-### 🌐 Portal OSC
+### Portal OSC
 Portal das Organizações da Sociedade Civil, com frontend e backend integrados.
 
 | Repositório | Descrição | Tecnologia |
@@ -129,7 +129,7 @@ Portal das Organizações da Sociedade Civil, com frontend e backend integrados.
 
 ---
 
-### 💧 Projeto CAERN
+### Projeto CAERN
 Dashboard de visualização e envio de dados solicitados pela CAERN.
 
 | Repositório | Descrição | Tecnologia |
@@ -138,7 +138,7 @@ Dashboard de visualização e envio de dados solicitados pela CAERN.
 
 ---
 
-### 🗃️ Outros Sistemas
+### Outros Sistemas
 
 | Repositório | Descrição | Tecnologia |
 |---|---|---|
@@ -148,7 +148,7 @@ Dashboard de visualização e envio de dados solicitados pela CAERN.
 
 ---
 
-## 🛠️ Templates e Padrões de Desenvolvimento
+## Templates e Padrões de Desenvolvimento
 
 Para garantir consistência e qualidade nos projetos, mantemos repositórios de templates e diretrizes.
 
@@ -162,7 +162,7 @@ Para garantir consistência e qualidade nos projetos, mantemos repositórios de 
 
 ---
 
-## 📋 Padrões e Diretrizes
+## Padrões e Diretrizes
 
 Todos os projetos seguem as diretrizes definidas no repositório [`guia-do-desenvolvedor`](https://github.com/NUDTI-SETHAS/guia-do-desenvolvedor). Recomendamos que novos membros consultem esse guia antes de contribuir.
 
