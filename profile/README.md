@@ -74,6 +74,7 @@ Sistema de informação e apoio à Assistência Social, com múltiplos módulos 
 | Repositório | Descrição | Tecnologia |
 |---|---|---|
 | [suas-api](https://github.com/NUDTI-SETHAS/suas-api) | API principal do +SUAS | django |
+| [glpi-suas](https://github.com/NUDTI-SETHAS/glpi-suas) | Módulo GLPI do +SUAS | GLPI(PHP) |
 | [suas-web-apoio-tecnico](https://github.com/NUDTI-SETHAS/suas-web-apoio-tecnico) | Front-end do módulo de apoio técnico | TypeScript |
 | [suas-web-portal](https://github.com/NUDTI-SETHAS/suas-web-portal) | Portal principal do +SUAS | TypeScript |
 | [suas-documentacao](https://github.com/NUDTI-SETHAS/suas-documentacao) | Documentação oficial | — |
